@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://gitlab.xpanxion.com/Vishal.Tanna/tf-argocd-nginx.git
+    repoURL: https://gitlab.xpanxion.com/Vishal.Tanna/argocd-nginx-manifest.git
     targetRevision: main
     path: .
   destination:
