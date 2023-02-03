@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: test-crd-2
+  name: test-crd-3
   namespace: argocd
   finalizers:
     - resources-finalizer.argocd.argoproj.io
