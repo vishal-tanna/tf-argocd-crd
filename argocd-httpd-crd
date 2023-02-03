@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     repoURL: https://gitlab.xpanxion.com/Vishal.Tanna/argocd-httpd-manifest.git
-    targetRevision: main
+    targetRevision: master
     path: .
   destination:
     server: https://kubernetes.default.svc
